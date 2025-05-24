@@ -303,7 +303,7 @@ extern "C" {
  * the MAC to the TCP/IP stack. */
 #define ipconfigUSE_LINKED_RX_MESSAGES           (0)
 
-#define ipconfigUSE_IPv6                         (0)
+#define ipconfigUSE_IPv6                         (1)
 
 #define ipconfigIPv4_BACKWARD_COMPATIBLE         (1)
 
